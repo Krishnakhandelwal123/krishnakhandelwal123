@@ -1,124 +1,187 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Krishna%20Khandelwal&fontSize=50&fontColor=fff&animation=fadeIn)
+<div align="center">
 
-<h2 align="center">💻 Software Developer | Backend & Full-Stack Engineer</h2>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:0a1628,100:0d0d1a&height=300&section=header&text=Krishna%20Khandelwal&fontSize=58&fontColor=00e5ff&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=68&descColor=a78bfa&stroke=00e5ff&strokeWidth=1" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Backend+Developer+Intern+%40+Cloudcredits;Full-Stack+MERN+Developer;300%2B+LeetCode+Problems+Solved;Building+Scalable+REST+APIs;Open+Source+Contributor" />
-</p>
+</div>
 
----
+<div align="center">
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=19&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+production-grade+systems+at+scale;AI+%2B+Backend+%2B+Full-Stack+%E2%80%94+shipped%2C+not+just+coded;40%2B+live+users+on+AlterAI+%7C+$60K+hackathon+competitor;300%2B+LeetCode+%7C+GPA+8.71+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
-🎓 B.Tech CSE (2023–2027) | Manipal University Jaipur (GPA: 8.71)  
-💡 Strong foundation in Data Structures & Algorithms (300+ LeetCode)  
-⚡ Passionate about building scalable backend systems & production-ready web applications  
+</div>
 
-- 🔭 Previously worked as **Backend Developer Intern @ Cloudcredits Technologies**
-- 🧠 Strong in **REST APIs, Database Optimization, Authentication & Security**
-- 🚀 Actively seeking **SDE / Web Development Internship Opportunities**
-- 🎯 Interested in scalable systems, backend architecture & AI-integrated applications
+<br/>
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-khandelwal-470b30280/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0d1117)](https://github.com/Krishnakhandelwal123)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishnakhandelwal018/)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnakhandelwal1231999@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishnakhandelwal1231999)
 
-### 👨‍💻 Languages
-JavaScript • TypeScript • C++ • Python  
-
-### 🎨 Frontend
-React.js • Next.js • Tailwind CSS • Framer Motion • HTML5 • CSS3  
-
-### 🛠 Backend
-Node.js • Express.js • REST APIs • Firebase • Appwrite  
-
-### 🗄 Databases
-MongoDB • PostgreSQL • Firebase Realtime DB • Prisma  
-
-### 🔐 Authentication & Security
-JWT • OAuth • bcrypt • Role-Based Access Control  
-
-### ⚙️ DevOps & Tools
-Docker • CI/CD • AWS • Vercel • Render • Git • GitHub • Postman  
+</div>
 
 ---
 
-## 💼 Experience
+## ◈ Who Am I
 
-### 🏢 Backend Developer Intern — Cloudcredits Technologies Pvt. Ltd  
-📅 Jul 2025 – Oct 2025  
+```typescript
+const krishna = {
+  role     : "Software Engineer — Backend & Full-Stack",
+  education: "B.Tech CSE @ Manipal University Jaipur (GPA 8.71 · 2023–2027)",
+  status   : "🟢 Actively seeking SDE Internship / Full-Time roles",
 
-- Developed scalable RESTful APIs using Node.js & Express.js  
-- Improved backend efficiency by **30%**  
-- Optimized MongoDB schemas (Mongoose) reducing query time by **20%**  
-- Implemented secure authentication using **JWT & bcrypt**  
-- Designed role-based access control for secure resource management  
+  currentlyBuilding : ["PulseAI — LangGraph life-event agent (SBI Hackathon 2026)"],
+  recentlyShipped   : ["AlterAI (40+ users)", "SurgeMind (Google Cloud Hackathon)", "EdgeFlame (Tata InnoVent-27)"],
 
----
-
-## 🏗️ Featured Projects
-
-### 🔹 SkillSync — AI-Powered Skill Sharing Platform  
-**Tech:** MERN, MongoDB, LangChain, JWT  
-- Built full-stack AI-assisted platform with secure authentication  
-- Integrated LLM APIs for personalized skill recommendations  
-- Designed scalable backend architecture & optimized schema design  
-
-🔗 GitHub: https://github.com/Krishnakhandelwal123/The-Orchestrators  
+  strengths : ["Distributed Systems", "RAG Pipelines", "AI Orchestration", "REST API Design"],
+  openTo    : ["Google", "Microsoft", "Apple", "top-tier startups"],
+};
+```
 
 ---
 
-### 🔹 AI-Powered Code Reviewer  
-**Tech:** MERN, OpenAI API, REST APIs  
-- Developed AI-driven code analysis system  
-- Built secure backend for code submissions & AI responses  
-- Deployed using CI/CD for production readiness  
+## ◈ The Stack
 
-🌐 Live Demo: https://code-reviewer-botz.onrender.com/  
+<div align="center">
 
----
+| Layer | Technologies |
+|-------|-------------|
+| **Languages** | TypeScript · JavaScript · C++ · Python · Java · Go |
+| **Frontend** | React.js · Next.js · Tailwind CSS · Framer Motion |
+| **Backend** | Node.js · Express.js · REST APIs · WebSockets · SSE |
+| **AI / LLM** | OpenAI API · LangGraph · Gemini AI · MCP · pgvector · RAG Pipelines |
+| **Databases** | PostgreSQL · MongoDB · Supabase · Prisma · Redis |
+| **Auth & Security** | OAuth 2.0 · JWT · bcrypt · AES-256 · RBAC · Row Level Security |
+| **DevOps & Cloud** | Docker · CI/CD · AWS · DigitalOcean · Vercel · Git |
+| **CS Fundamentals** | DSA (300+ LC) · OS · Computer Networks · OOP · System Design |
 
-### 🔹 Real-Time Chat Application  
-**Tech:** MERN, Socket.io, JWT  
-- Built real-time messaging system  
-- Implemented JWT-based authentication  
-- Designed scalable APIs for concurrent users  
-
-🔗 GitHub: https://github.com/Krishnakhandelwal123/mern-chat-application  
-
----
-
-## 📊 Coding & GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnakhandelwal123&show_icons=true&theme=radical&count_private=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnakhandelwal123&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnakhandelwal123&layout=compact&theme=radical" />
-  <br>
-  <img src="https://leetcard.jacoblin.cool/krishnakhandelwal018?theme=dark&font=Monospace" />
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## ◈ Shipped — What I've Built
 
-<p align="center">
-  <a href="mailto:krishnakhandelwal1231999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/krishna-khandelwal-470b30280/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Krishnakhandelwal123">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/krishnakhandelwal018/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+### 🔷 AlterAI &nbsp;·&nbsp; AI Personality-as-a-Service Platform
+> *Jan 2026 – Present · 40+ live users · Production on DigitalOcean + Vercel*
+
+**React · Node.js · Supabase · pgvector · OpenAI · SSE · OAuth 2.0**
+
+- Architected a distributed **RAG pipeline** with pgvector + semantic search for horizontal scalability and low-latency retrieval
+- Built real-time SSE streaming, **OAuth 2.0** multi-provider auth, **AES-256** encryption & Row Level Security
+- Optimized high-concurrency workloads via async processing and connection pooling
+- Integrated **ElevenLabs** voice cloning for personalized AI assistant personas
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00e5ff?style=flat-square&logo=vercel&logoColor=black)](https://alterai.tech)
 
 ---
 
-⭐ Always open to collaboration on impactful backend & AI-powered projects!
+### 🔷 SurgeMind &nbsp;·&nbsp; AI Agent for Real-Time Demand Forecasting
+> *June 2026 · Google Cloud Rapid Agent Hackathon (~$60K in prizes)*
+
+**React.js · Node.js · MongoDB · Gemini AI · MCP · Tool Orchestration**
+
+- Built a scalable AI agent system forecasting real-time demand spikes during **FIFA World Cup 2026**
+- Engineered **MCP-based tool orchestration** with deterministic fallback guaranteeing zero-downtime under AI service outages
+- Processed concurrent multi-source data streams producing actionable revenue impact plans for local businesses
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-a78bfa?style=flat-square&logo=google-cloud&logoColor=white)](https://github.com/Krishnakhandelwal123)
+
+---
+
+### 🔷 DevFund &nbsp;·&nbsp; Crowdfunding Platform for Developers
+> *May 2025 – June 2025*
+
+**React.js · Node.js · MongoDB · Razorpay · JWT · RBAC**
+
+- Designed the data model and API layer to handle **concurrent subscription state changes safely**, preventing race conditions across payment and entitlement workflows
+- Built tier-based subscriptions with **Razorpay** integration, webhook signature verification, and idempotency-key-based race condition handling
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/Krishnakhandelwal123)
+
+---
+
+### 🔷 EdgeFlame &nbsp;·&nbsp; Edge-Deployed AI Combustion Optimizer
+> *Tata InnoVent-27 Hackathon Submission*
+
+**TensorFlow Lite · Raspberry Pi 4 · AWS IoT Greengrass**
+
+- Designed an edge-deployed AI system for industrial combustion optimization with real-time inference on constrained hardware
+- Targeted 15–20% efficiency improvement in industrial machinery fuel usage
+
+---
+
+## ◈ Experience
+
+### Cloudcredits Technologies Pvt. Ltd — *Backend Developer Intern*
+`Jul 2025 – Oct 2025 · Remote`
+
+- Developed RESTful APIs with **Node.js + Express.js**, improving backend efficiency by **30%**
+- Optimized MongoDB schemas (Mongoose) — query time reduced by **20%**
+- Implemented secure auth using **JWT + bcrypt** and designed RBAC for resource management
+
+---
+
+### GirlScript Summer of Code (GSSoC) 2025 — *Open Source Contributor*
+
+- Resolved bugs and shipped feature implementations across **JavaScript/Node.js** open-source repositories
+
+---
+
+## ◈ Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishnakhandelwal123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00e5ff&icon_color=a78bfa&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnakhandelwal123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00e5ff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnakhandelwal123&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00e5ff&fire=a78bfa&currStreakLabel=00e5ff&sideLabels=a78bfa" />
+
+</div>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/krishnakhandelwal018?theme=dark&font=DM+Mono&ext=heatmap" />
+
+</div>
+
+---
+
+## ◈ Education
+
+**Manipal University Jaipur** &nbsp;·&nbsp; B.Tech Computer Science & Engineering
+`Aug 2023 – Aug 2027 · GPA: 8.71 · Jaipur, Rajasthan`
+
+---
+
+## ◈ Let's Build Something
+
+<div align="center">
+
+> *"I don't just write code — I architect systems that survive production."*
+
+<br/>
+
+**Open to SDE Internships · Full-Time Roles · Hackathon Collabs**
+
+[![Email Me](https://img.shields.io/badge/📩_Email_Me-krishnakhandelwal1231999@gmail.com-00e5ff?style=for-the-badge&labelColor=0d0d1a)](mailto:krishnakhandelwal1231999@gmail.com)
+[![+91 7828333202](https://img.shields.io/badge/📱_+91_7828333202-a78bfa?style=for-the-badge&labelColor=0d0d1a)](tel:+917828333202)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:0a1628&height=100&section=footer&fontColor=00e5ff" />
+
+</div>
