@@ -1,11 +1,40 @@
 <div align="center">
 
-<!-- 
-  BANNER SETUP (one-time):
-  1. Commit banner.svg to your profile repo root (Krishnakhandelwal123/Krishnakhandelwal123)
-  2. The <img> below will then render it with full animation on GitHub
--->
-<img src="./banner.svg" width="100%" alt="Krishna Khandelwal — Glitch Cyber Banner"/>
+<!-- HERO BANNER — Glitch/Cyber SVG (animated, renders natively on GitHub) -->
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="sliceA"><rect x="0" y="60" width="900" height="28"/></clipPath>
+  <clipPath id="sliceC"><rect x="0" y="130" width="900" height="22"/></clipPath>
+</defs>
+<rect width="900" height="220" fill="#080c14"/>
+<line x1="0" y1="40" x2="900" y2="40" stroke="#00e5ff" stroke-width="0.3" opacity="0.2"/>
+<line x1="0" y1="180" x2="900" y2="180" stroke="#00e5ff" stroke-width="0.3" opacity="0.2"/>
+<line x1="60" y1="0" x2="60" y2="220" stroke="#a78bfa" stroke-width="0.3" opacity="0.15"/>
+<line x1="840" y1="0" x2="840" y2="220" stroke="#a78bfa" stroke-width="0.3" opacity="0.15"/>
+<polyline points="20,20 20,8 32,8" fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.7"/>
+<polyline points="880,20 880,8 868,8" fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.7"/>
+<polyline points="20,200 20,212 32,212" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.7"/>
+<polyline points="880,200 880,212 868,212" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.7"/>
+<text x="22" y="36" font-family="monospace" font-size="9" fill="#00e5ff" opacity="0.5">[SYS:0x9F2A]</text>
+<text x="750" y="36" font-family="monospace" font-size="9" fill="#a78bfa" opacity="0.5">v2.6.0_prod</text>
+<g clip-path="url(#sliceA)" opacity="0.5">
+  <text x="452" y="115" font-family="'Courier New', monospace" font-size="64" font-weight="700" fill="#ff003c" text-anchor="middle" letter-spacing="4">KRISHNA KHANDELWAL<animate attributeName="x" values="452;460;445;452;438;452" keyTimes="0;0.15;0.3;0.5;0.75;1" dur="2.8s" repeatCount="indefinite"/></text>
+</g>
+<g clip-path="url(#sliceC)" opacity="0.4">
+  <text x="448" y="115" font-family="'Courier New', monospace" font-size="64" font-weight="700" fill="#00e5ff" text-anchor="middle" letter-spacing="4">KRISHNA KHANDELWAL<animate attributeName="x" values="448;440;456;448;464;448" keyTimes="0;0.1;0.25;0.5;0.8;1" dur="2.4s" repeatCount="indefinite"/></text>
+</g>
+<text x="450" y="115" font-family="'Courier New', monospace" font-size="64" font-weight="700" fill="#00e5ff" text-anchor="middle" letter-spacing="4" filter="url(#glow)">KRISHNA KHANDELWAL</text>
+<text x="450" y="115" font-family="'Courier New', monospace" font-size="64" font-weight="700" fill="#0d0d1a" text-anchor="middle" letter-spacing="4" opacity="0"><animate attributeName="opacity" values="0;0;0;0;0.9;0;0;0;0.6;0;0" keyTimes="0;0.1;0.2;0.28;0.3;0.32;0.6;0.7;0.72;0.74;1" dur="4s" repeatCount="indefinite"/><animate attributeName="y" values="115;113;115;117;115" keyTimes="0;0.29;0.3;0.31;1" dur="4s" repeatCount="indefinite"/>KRISHNA KHANDELWAL</text>
+<text x="450" y="148" font-family="monospace" font-size="13" fill="#a78bfa" text-anchor="middle" letter-spacing="4" opacity="0.9">SOFTWARE ENGINEER  ·  BACKEND  ·  AI SYSTEMS  ·  FULL-STACK</text>
+<rect x="792" y="130" width="8" height="14" fill="#00e5ff" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.1;0.5;0.6;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<rect x="0" y="192" width="900" height="28" fill="#0a1222" opacity="0.9"/>
+<text x="22" y="210" font-family="monospace" font-size="10" fill="#00e5ff" opacity="0.7">● ONLINE</text>
+<text x="86" y="210" font-family="monospace" font-size="10" fill="#4a5568" opacity="0.7">|</text>
+<text x="96" y="210" font-family="monospace" font-size="10" fill="#a78bfa" opacity="0.7">MUJ · GPA 8.71 · B.Tech CSE 2027</text>
+<text x="450" y="210" font-family="monospace" font-size="10" fill="#4a5568" opacity="0.7" text-anchor="middle">|</text>
+<text x="520" y="210" font-family="monospace" font-size="10" fill="#00e5ff" opacity="0.7">300+ LeetCode  ·  40+ Live Users  ·  Open to Hire</text>
+</svg>
 
 </div>
 
@@ -136,9 +165,33 @@ const krishna = {
 
 ---
 
+## ◈ Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishnakhandelwal123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00e5ff&icon_color=a78bfa&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnakhandelwal123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00e5ff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnakhandelwal123&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00e5ff&fire=a78bfa&currStreakLabel=00e5ff&sideLabels=a78bfa" />
+
+</div>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/krishnakhandelwal018?theme=dark&font=DM+Mono&ext=heatmap" />
+
+</div>
+
+---
+
 ## ◈ Education
 
-**Manipal University Jaipur** &nbsp;·&nbsp; B.Tech Computer Science & Engineering  
+**Manipal University Jaipur** &nbsp;·&nbsp; B.Tech Computer Science & Engineering
 `Aug 2023 – Aug 2027 · GPA: 8.71 · Jaipur, Rajasthan`
 
 ---
@@ -161,5 +214,7 @@ const krishna = {
 <br/>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:0a1628&height=100&section=footer&fontColor=00e5ff" />
+
 </div>
